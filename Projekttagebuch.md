@@ -1,6 +1,6 @@
-Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt gearbeitet wurde, mit einer kurzen Beschreibung erähnt.
+Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt gearbeitet wurde, mit einer kurzen Beschreibung erwähnt.
 
-<h1>Bau eines autonomen Roboters mit einem Arduino</h1>
+<h1>Bau einer automatischen Lego-Sortiermaschine mit einem Arduino</h1>
 
 <h3> Inhalt </h3>
 <ul style="list-stlye-type:none">
@@ -20,7 +20,8 @@ Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt 
   Diese Stunde ist ausgefallen, weil es der letzte Tag vor den Ferien war und wir somit nach der 3. Stunde Schluss hatten.<br></p>
 
 <b>Dienstag, der 11.01.2022</b><br>
-  In dieser ersten Doppelstunde des neuen Jahres habe ich bei GitHub angfangen, das neue Projekt zu erstellen. Dazu habe ich ein neues Repository erstellt und eine File eingefügt, in der ich nun das Projekttagebuch erstelle. Hier werden jegliche Arbeitsschritte dokumentiert. Außerdem habe ich heute noch über weitere Funktionen des Arduinos nachgedacht. Dabei bin ich auf eine Idee gekommen, dass ein Farbsensor eine interessante Anwendung wäre. Bezüglich des Roboters bin ich nicht merklich weitergekommen, sodass ich anstatt eines selbstfahrenden Roboters eine Sortiermaschine baue, die ebenfalls elektronische Komponenten wie Motoren, Sensoren und Lampen braucht. Ein Roboter hat sich für Anfänger, wie mich, als nicht realisierbar herausgestellt, weil die Lenkung über Ketten und Räder sehr schwierig ist.<br></p>   
+  In dieser ersten Doppelstunde des neuen Jahres habe ich bei GitHub angfangen, das neue Projekt zu erstellen. Dazu habe ich ein neues Repository erstellt und eine File eingefügt, in der ich nun das Projekttagebuch erstelle. Hier werden jegliche Arbeitsschritte dokumentiert.<br> 
+Während der Ferien und heute habe ich weiter über die Idee eines Roboters und dessen Funktionen nachgedacht. Dabei bin ich auf einen Farbsensor im Internet gestoßen, der interassente Anwendungsmöglichkeiten zulässt. Für einen Roboter bin ich nicht merklich weitergekommen, weil die Umsetzung des Fahrwerks mit Rädern oder Ketten schwierig ist und auch die praxisnahen Funktionen nicht einfach zu programmieren sind. Deshalb habe ich mich gegen den Bau eines Roboters entschieden. Bei Recherchen im Internet zu Farbsensoren und anderen technischen Komponenten bin ich auf eine Sortiermaschine für bunte Schokolinsen gestoßen. Diese Idee finde ich sehr interessant und außergwöhnlich. Zudem scheint die Umsetzung nicht besonders schwierig, sodass ich mich nun auch auf eine Sortiermaschine konzentrieren möchte, die allerdings Legosteine nach Farben sortiert.<br></p>   
 <b>Mittwoch, der 12.01.2022</b><br>
   Nachdem ich letzte Stunde mich gegen den Bau eines Roboters entschieden habe und nun eine Sortiermaschine basteln möchte, habe ich an dieser Idee weitergearbeitet. Die Maschine soll möglichst Legosteine nach Farbe sortieren und dann, wenn möglich auch noch nach Größe. Das Funktionsprinzip dieser Schritte habe ich mir heute weiter überlegt.<br></p>
 
