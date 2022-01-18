@@ -29,7 +29,7 @@ Während der Ferien und heute habe ich weiter über die Idee eines Roboters und 
 <b>Dienstag, der 18.01.2022</b><br>
   Heute habe ich mich primär mit der Thematik beschäftigt, welcher Farbsensor verwendet werden soll und wie die Legosteine zu dem Farbsensor gelangen, sodass sie richtig zugeordnet werden können. Das umfasst nicht nur die Problematik, dass die Legosteine nur einzeln in dem Bereich des Farbsensors sein dürfen, damit dieser fehlerfrei funktionieren kann, sondern auch jene, dass die Legosteine dazu neigen, sich schnell zu verkanten. 
   Deshalb habe ich mich heute genau um diese Probleme gekümmert und habe einen vorläufigen Aufbau entwickelt. Hierzu würde als Farbsensor der TCS3200 von Adafruit zum Einsatz kommen, der die Farben Rot, Grün und Blau erkennt. Diese drei Farben werden dann über ein Fließband in den jeweiligen Sammelbehälter befördert und alle anderen Farben in einen vierten Farbtopf.
-  <img scr="![image](https://user-images.githubusercontent.com/88386279/149964507-e8b4c8b6-da07-4db1-bdbe-ab45680cdb2f.jpeg)">
+  <img scr=![image](https://user-images.githubusercontent.com/88386279/149964507-e8b4c8b6-da07-4db1-bdbe-ab45680cdb2f.jpeg)>
 
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
