@@ -24,7 +24,10 @@ Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt 
 Während der Ferien und heute habe ich weiter über die Idee eines Roboters und dessen Funktionen nachgedacht. Dabei bin ich auf einen Farbsensor im Internet gestoßen, der interassente Anwendungsmöglichkeiten zulässt. Für einen Roboter bin ich nicht merklich weitergekommen, weil die Umsetzung des Fahrwerks mit Rädern oder Ketten schwierig ist und auch die praxisnahen Funktionen nicht einfach zu programmieren sind. Deshalb habe ich mich gegen den Bau eines Roboters entschieden. Bei Recherchen im Internet zu Farbsensoren und anderen technischen Komponenten bin ich auf eine Sortiermaschine für bunte Schokolinsen gestoßen. Diese Idee finde ich sehr interessant und außergwöhnlich. Zudem scheint die Umsetzung nicht besonders schwierig, sodass ich mich nun auch auf eine Sortiermaschine konzentrieren möchte, die allerdings Legosteine nach Farben sortiert.<br></p> 
 
 <b>Mittwoch, der 12.01.2022</b><br>
-  Nachdem ich letzte Stunde mich gegen den Bau eines Roboters entschieden habe und nun eine Sortiermaschine basteln möchte, habe ich an dieser Idee weitergearbeitet. Die Maschine soll möglichst Legosteine nach Farbe sortieren und dann, wenn möglich auch noch nach Größe. Das Funktionsprinzip dieser Schritte habe ich mir heute weiter überlegt.<br></p>
+  Nachdem ich mich letzte Stunde gegen den Bau eines Roboters entschieden habe und nun eine Sortiermaschine basteln möchte, habe ich an dieser Idee weitergearbeitet. Die Maschine soll möglichst Legosteine nach Farbe sortieren und dann, wenn möglich auch noch nach Größe. Das Funktionsprinzip dieser Schritte habe ich mir heute weiter überlegt.<br></p>
+  
+<b>Dienstag, der 18.01.2022</b><br>
+  Heute habe ich mich primär mit der Thematik beschäftigt, welcher Farbsensor verwendet werden soll und wie die Legosteine zu dem Farbsensor gelangen, sodass sie richtig zugeordnet werden können. Das umfasst nicht nur die Problematik, dass die Legosteine nur einzeln in dem Bereich des Farbsensors sein dürfen, damit dieser fehlerfrei funktionieren kann, sondern auch jene, dass die Legosteine dazu neigen, sich schnell zu verkanten. 
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
 
