@@ -32,6 +32,9 @@ Während der Ferien und heute habe ich weiter über die Idee eines Roboters und 
   Deshalb habe ich mich heute genau um diese Probleme gekümmert und habe einen vorläufigen Aufbau entwickelt. Hierzu würde als Farbsensor der TCS3200 von Adafruit zum Einsatz kommen, der die Farben Rot, Grün und Blau erkennt. Diese drei Farben werden dann über ein Fließband in den jeweiligen Sammelbehälter befördert und alle anderen Farben in einen vierten Farbtopf. Weiterhin bleiben jedoch das Problem des Verkantens im Trichter und die Tatsache, dass mehrere Steine auf einmal an dem Sensor "vorbeilaufen" akut. Eine mögliche Lösung wäre eine mechanische Sperre auf dem Fließband vor dem Sensor oder eine Art Schnecke, die im Trichter jeden Stein ausrichtet und daher einen Abstand zwischen den Steinen schafft. 
   
   ![image](https://user-images.githubusercontent.com/88386279/149964507-e8b4c8b6-da07-4db1-bdbe-ab45680cdb2f.jpeg)
+  
+<b>Mittwoch, der 19.01.2022</b><br>
+  Nachdem ich gestern schon einige Fortschritte hinsichtlich einer möglichen Konstruktion bzw. des Aufbaus der Sortiermaschine gemacht habe, habe ich heute weiter über Verbesserungen und eine einfachere, bedinungsfreundlichere Konstruktion nachgedacht. Dabei ist mir die Idee gekommen, dass die Steine nachdem sie den Farbsensor passiert haben auf eine Rutsche fallen, die mit einem Servo-Motor gesteuert ist und damit die Sammelbehälter ansteuert. Die folgende Abbildung zeigt, wie das zumindest schematisch aussehen könnte.
 
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
