@@ -36,6 +36,8 @@ Während der Ferien und heute habe ich weiter über die Idee eines Roboters und 
 <b>Mittwoch, der 19.01.2022</b><br>
   Nachdem ich gestern schon einige Fortschritte hinsichtlich einer möglichen Konstruktion bzw. des Aufbaus der Sortiermaschine gemacht habe, habe ich heute weiter über Verbesserungen und eine einfachere, bedinungsfreundlichere Konstruktion nachgedacht. Dabei ist mir die Idee gekommen, dass die Steine nachdem sie den Farbsensor passiert haben auf eine Rutsche fallen, die mit einem Servo-Motor gesteuert ist und damit die Sammelbehälter ansteuert. Die folgende Abbildung zeigt, wie das zumindest schematisch aussehen könnte.
 
+![image](https://user-images.githubusercontent.com/88386279/150133687-41821230-1108-4c34-86d5-7bef72f3ecb5.jpeg)
+
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
 
