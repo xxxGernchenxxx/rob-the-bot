@@ -39,9 +39,8 @@ Während der Ferien und heute habe ich weiter über die Idee eines Roboters und 
 ![image](https://user-images.githubusercontent.com/88386279/150133687-41821230-1108-4c34-86d5-7bef72f3ecb5.jpeg)
 
 <b>Donnerstag, der 20.01.2022</b><br>
+  Heute habe ich mich verstärkt darum gekümmert, dass der Farbsensor die ersten Farben erkennt. Dazu habe ich mich einem Aufbau im Internet bedient und konnte damit erste Erfolge erzielen. Grün und Blau werden vom Farbsensor fast ohne Probleme erkannt. Allerdings wird Rot gar nicht erkannt. Ebenso sollten die farbigen LEDs im Grundzustand nicht leuchten und nur wenn der Farbsensor eine Farbe erkennt auflecuhten. Im Moment leuchten alle und die richtige LED geht dann aus, wenn diese Farbe erkannt wird. Das untenstehende Video kann direkt bei GitHub.com angeschaut werden und zeigt die Erfolge, aber auch die Problematiken.
   
-  
-
 https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-be7b-aaf81a15e1e7.mp4
 
 
