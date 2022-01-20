@@ -38,6 +38,13 @@ Während der Ferien und heute habe ich weiter über die Idee eines Roboters und 
 
 ![image](https://user-images.githubusercontent.com/88386279/150133687-41821230-1108-4c34-86d5-7bef72f3ecb5.jpeg)
 
+<b>Donnerstag, der 20.01.2022</b><br>
+  
+  
+
+https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-be7b-aaf81a15e1e7.mp4
+
+
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
 
