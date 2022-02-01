@@ -67,6 +67,9 @@ https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
 
+[x] Arduino Uno R3
+
+
 <h3 id="kapitel4">4. Quellen</a></h2></li>
 
 - https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746 
