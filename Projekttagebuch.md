@@ -68,12 +68,15 @@ https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-
 Aufbau des Arduinos
 
 <details open>
-  <summary>Beispiel mit grüner, orangener und blauer Pappe</summary>
-</details>
-
+  <summary>Beispiel mit verschiedenfarbigen Pappen</summary>
+ 
 ![image](https://user-images.githubusercontent.com/88386279/151996535-3bcfa583-ecb9-483d-9f1b-35f0caf3931b.jpeg)
 ![image](https://user-images.githubusercontent.com/88386279/151996581-b227ddc0-f393-432f-a897-3a0212ec5c1b.jpeg)
 ![image](https://user-images.githubusercontent.com/88386279/151996641-b510b65e-95ca-40ca-8ccf-0358edf63988.jpeg)
+  
+</details>
+
+
 
 
 
