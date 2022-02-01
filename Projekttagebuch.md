@@ -59,6 +59,11 @@ Während der Ferien und heute habe ich weiter über die Idee eines Roboters und 
 https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-be7b-aaf81a15e1e7.mp4
 
 
+<b>Dienstag, der 01.02.2022</b><br>
+
+  Nachdem in der letzten Woche der Informatik-Unterricht entfallen ist, habe ich zu Hause am Sketch für den Farbsensor weitergearbeitet. Im ersten Schritt wurden die Farben Rot, Grün und Blau erkannt und nur im Seriellen Monitor unter den einzelnen RGB-Werten bis 255 angegeben und dahinter wurde dann die Farbe angezeigt. Da diese Art der Anzeige nur am PC möglich ist und nicht in einer Maschine ohne Display oder sonstiges aufrufbar ist, habe ich jeweils eine LED für Rot, Grün und Blau eingesetzt. Diese zeigten dann den erkannten Farbwert an und haben dementsprechend nur kaum Farbabweichungen erkannt, sodass ich stattdessen eine RGB-LED eingebaut habe, die dann auch einige Farben mehr anzeigen kann. Da der Farbsensor auf anderer Lichtquellen außer den vier eingebauten, weißen LEDs empfindlich reagiert und falsche Farben erkennt, muss der Sensor im fertigen Projekt in einem dunklen Körper eingebaut sein, damit die Sortiermaschine zuverlässig funktioniert. Das konnte durch die Versuche mit einem dunklen Körper heute bestätigt werden.
+
+
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
 
