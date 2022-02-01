@@ -65,8 +65,15 @@ https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-
 
 
 ![image](https://user-images.githubusercontent.com/88386279/151996191-e932d4d2-186a-43dd-aa92-479cf1a659e8.jpeg)
+Aufbau des Arduinos
 
-![image](https://user-images.githubusercontent.com/88386279/151996535-3bcfa583-ecb9-483d-9f1b-35f0caf3931b.jpeg)![image](https://user-images.githubusercontent.com/88386279/151996581-b227ddc0-f393-432f-a897-3a0212ec5c1b.jpeg)![image](https://user-images.githubusercontent.com/88386279/151996641-b510b65e-95ca-40ca-8ccf-0358edf63988.jpeg)
+<details open>
+  <summary>Beispiel mit grüner, orangener und blauer Pappe</summary>
+</details>
+
+![image](https://user-images.githubusercontent.com/88386279/151996535-3bcfa583-ecb9-483d-9f1b-35f0caf3931b.jpeg)
+![image](https://user-images.githubusercontent.com/88386279/151996581-b227ddc0-f393-432f-a897-3a0212ec5c1b.jpeg)
+![image](https://user-images.githubusercontent.com/88386279/151996641-b510b65e-95ca-40ca-8ccf-0358edf63988.jpeg)
 
 
 
