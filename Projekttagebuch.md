@@ -84,6 +84,8 @@ Aufbau des Arduinos
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
 
+
+
 [x] Arduino Uno R3<br>
 [x] Breadboard<br>
 [x] Farbsensor GY-...<br>
