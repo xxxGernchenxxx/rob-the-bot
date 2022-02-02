@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-
 ![image](https://user-images.githubusercontent.com/88386279/151996191-e932d4d2-186a-43dd-aa92-479cf1a659e8.jpeg)
 Aufbau des Arduinos
 
-<details open>
+<details close>
   <summary>Beispiel mit verschiedenfarbigen Pappen</summary>
  
 ![image](https://user-images.githubusercontent.com/88386279/151996535-3bcfa583-ecb9-483d-9f1b-35f0caf3931b.jpeg)
