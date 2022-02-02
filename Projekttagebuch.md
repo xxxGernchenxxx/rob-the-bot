@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-
 
 <b>Dienstag, der 01.02.2022</b><br>
 
-  Nachdem in der letzten Woche der Informatik-Unterricht entfallen ist, habe ich zu Hause am Sketch für den Farbsensor weitergearbeitet. Im ersten Schritt wurden die Farben Rot, Grün und Blau erkannt und nur im Seriellen Monitor unter den einzelnen RGB-Werten bis 255 angegeben und dahinter wurde dann die Farbe angezeigt. Da diese Art der Anzeige nur am PC möglich ist und nicht in einer Maschine ohne Display oder sonstiges aufrufbar ist, habe ich jeweils eine LED für Rot, Grün und Blau eingesetzt. Diese zeigten dann den erkannten Farbwert an und haben dementsprechend nur kaum Farbabweichungen erkannt, sodass ich stattdessen eine RGB-LED eingebaut habe, die dann auch einige Farben mehr anzeigen kann. Da der Farbsensor auf anderer Lichtquellen außer den vier eingebauten, weißen LEDs empfindlich reagiert und falsche Farben erkennt, muss der Sensor im fertigen Projekt in einem dunklen Körper eingebaut sein, damit die Sortiermaschine zuverlässig funktioniert. Das konnte durch die Versuche mit einem dunklen Körper heute bestätigt werden.
+  Nachdem in der letzten Woche der Informatik-Unterricht entfallen ist, habe ich zu Hause am Sketch für den Farbsensor weitergearbeitet. Im ersten Schritt wurden die Farben Rot, Grün und Blau erkannt und nur im Seriellen Monitor unter den einzelnen RGB-Werten bis 255 angegeben und dahinter wurde dann die Farbe angezeigt. Da diese Art der Anzeige nur am PC möglich ist und nicht in einer Maschine ohne Display oder sonstiges aufrufbar ist, habe ich jeweils eine LED für Rot, Grün und Blau eingesetzt. Diese zeigten dann den erkannten Farbwert an und haben dementsprechend nur kaum Farbabweichungen erkannt, sodass ich stattdessen eine RGB-LED eingebaut habe, die dann auch einige Farben mehr anzeigen kann. In einer RGB-LED sind jeweils eine dimmbare rote, grüne und blaue LED eingebaut. Damit kann jede Farbe erzeugt werden, die gewünscht ist. Da der Farbsensor auf anderer Lichtquellen außer den vier eingebauten, weißen LEDs empfindlich reagiert und falsche Farben erkennt, muss der Sensor im fertigen Projekt in einem dunklen Körper eingebaut sein, damit die Sortiermaschine zuverlässig funktioniert. Das konnte durch die Versuche mit einem dunklen Körper heute bestätigt werden.
 
 
 ![image](https://user-images.githubusercontent.com/88386279/151996191-e932d4d2-186a-43dd-aa92-479cf1a659e8.jpeg)
@@ -76,15 +76,19 @@ Aufbau des Arduinos
   
 </details>
 
+<b>Mittwoch, der 02.02.2022</b><br>
 
-
+  Heute ist das Internet in der Schule ausgefallen, sodass die vorgenommene Aufgabe für die Stunde nicht durchgeführt werden konnte. Mein Vorhaben war es einen ersten Servo-Motor in den Sketech einzubinden, sodass danach jeder Farbe eine Winkelposition des Servos zugeordnet werden kann. Damit wäre es möglich ein rotes Objekt der Schachtel 1, ein grünes Objekt der Schachtel 2 und anderes farbige Objekte der anderen Schachten zu zuordnen. Damit würde dann nur noch eine Funktion der Sortiermaschine fehlen. Nämlich die jenige, die die Objekte zu dem Farbsensor bringt. 
 
 
 
 <h3 id="kapitel3">3. Materialien</a></h2></li>
 
 [x] Arduino Uno R3
-
+[x] Breadboard
+[x] Farbsensor GY-...
+[x] Servo-Motoren
+[x] Kabel
 
 <h3 id="kapitel4">4. Quellen</a></h2></li>
 
