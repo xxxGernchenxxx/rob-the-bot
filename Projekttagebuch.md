@@ -78,7 +78,7 @@ Aufbau des Arduinos
 
 <b>Mittwoch, der 02.02.2022</b><br>
 
-  Heute ist das Internet in der Schule ausgefallen, sodass die vorgenommene Aufgabe für die Stunde nicht durchgeführt werden konnte. Mein Vorhaben war es einen ersten Servo-Motor in den Sketech einzubinden, sodass danach jeder Farbe eine Winkelposition des Servos zugeordnet werden kann. Damit wäre es möglich ein rotes Objekt der Schachtel 1, ein grünes Objekt der Schachtel 2 und anderes farbige Objekte der anderen Schachten zu zuordnen. Damit würde dann nur noch eine Funktion der Sortiermaschine fehlen. Nämlich die jenige, die die Objekte zu dem Farbsensor bringt. 
+  Heute ist das Internet in der Schule ausgefallen, sodass die vorgenommene Aufgabe für die Stunde nicht durchgeführt werden konnte. Mein Vorhaben war es einen ersten Servo-Motor in den Sketech einzubinden, sodass danach jeder Farbe eine Winkelposition des Servos zugeordnet werden kann. Damit wäre es möglich ein rotes Objekt der Schachtel 1, ein grünes Objekt der Schachtel 2 und anderes farbige Objekte der anderen Schachten zu zuordnen. Damit würde dann nur noch eine Funktion der Sortiermaschine fehlen. Nämlich die jenige, die die Objekte zu dem Farbsensor bringt.<br></p>
 
 
 
