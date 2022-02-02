@@ -82,7 +82,7 @@ Aufbau des Arduinos
 
 
 
-<h3 id="kapitel3">3. Materialien</a></h2></li>
+<h3 id="kapitel3">3. Materialien</a></h3>
 
 
 
@@ -92,7 +92,7 @@ Aufbau des Arduinos
 [x] Servo-Motoren<br>
 [x] Kabel<br>
 
-<h3 id="kapitel4">4. Quellen</a></h2></li>
+<h4 id="kapitel4">4. Quellen</a></h4></li>
 
 - https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746 
 - https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61 
