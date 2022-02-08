@@ -79,6 +79,10 @@ Aufbau des Arduinos
 <b>Mittwoch, der 02.02.2022</b><br>
 
   Heute ist das Internet in der Schule ausgefallen, sodass die vorgenommene Aufgabe für die Stunde nicht durchgeführt werden konnte. Mein Vorhaben war es einen ersten Servo-Motor in den Sketech einzubinden, sodass danach jeder Farbe eine Winkelposition des Servos zugeordnet werden kann. Damit wäre es möglich ein rotes Objekt der Schachtel 1, ein grünes Objekt der Schachtel 2 und anderes farbige Objekte der anderen Schachten zu zuordnen. Damit würde dann nur noch eine Funktion der Sortiermaschine fehlen. Nämlich die jenige, die die Objekte zu dem Farbsensor bringt.<br></p>
+  
+<b>Dienstag, der 08.02.2022</b><br>
+
+  In dieser Stunde habe ich versucht den Farbsensor in der Genauigkeit zu verbessern. Außerdem habe geschaut, ob ich mit einigen kleineren Modifikationen den Sensor effektiver und dadurch zuverlässiger gestalten kann, da im Moment durchaus noch nicht immer die richtige Farbe erkannt wird. Zusätzlich habe ich mir überlegt, dass die Anzeige über den Seriellen Monitor am Computer eine gute Ergänzung zur RGB-LED wäre, die auch noch eindeutiger ist. Nach der Schule habe ich mich dann noch weiter mit den Problemen beschäftigt und habe geschaut, ob sie sich lösen lassen. Dabei habe ich den bislang geschriebenen Sketch nahezu gänzlich verworfen und habe einige neue, bisher nicht installierte Bibliotheken eingebunden und konnte damit das erste Mal den Farbsensor bestimmungsgemäß verwenden. Bisher war der Sketech anscheinend eher zufällig funktionabel und es kam dadurch zu den unerklärlichen Ausfällen bei der Farberkennung. Abschließend habe ich noch sehr lange am Abend darauf verwendet, die RGB-LED wieder in den Sketch einzubauen, was allerdings bislang noch nicht geklappt hat. Damit war der Tag erfolgreich auf der einen Seite,a ber auch ernüchternd, da ich annähernd drei Stunden vergeblich die LED einbinden wollte und es nicht geklappt hat. Das Ziel für morgen ist dann also genau das zu schaffen.<br></p>
 
 
 
