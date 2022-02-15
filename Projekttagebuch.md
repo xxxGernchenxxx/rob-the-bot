@@ -86,7 +86,7 @@ Aufbau des Arduinos
 
 <b>Mittwoch, der 09.02.2022</b><br>
 
-  Nachdem ich mich mir gestern die Ziele für heute gesteckt hatte, war die Motivation groß, das zu schaffen. Doch leider hat das heute wieder nicht geklappt. Am Nachmittag habe ich weiter versucht mit dem Internet eine Lösung zu finden, was sich allerding als sehr schwierig gestaltet hat.
+  Nachdem ich mich mir gestern die Ziele für heute gesteckt hatte, war die Motivation groß, das zu schaffen. Doch leider hat das heute wieder nicht geklappt. Am Nachmittag habe ich weiter versucht mit dem Internet eine Lösung zu finden, was sich allerding als sehr schwierig gestaltet hat. Trotzdem ist mir ein Video aufgefallen, indem alle Arbeitsschritte aufwendig beschrieben wurden. So konnte ich einen neuen Sketch ausprobieren, der sehr aufwendig ist und durch einen dafür vorgesehenen Kalibrierungssketch möglichst genaue Werte mit dem Sensor liefert. Der große Vorteil dieses Sketches liegt nicht nur in der Genauigkeit, sondern auch den anderen Sketchen ggü. darin, dass der serielle Monitor mithilfe einer map-Funktion RGB-Werte von 0 bis 255 anzeigt. 
   
 <b>Dienstag, der 15.02.2022</b><br>
   Seit der letzten Stunde habe ich viele Stunden in das Projekt gesteckt und versucht dem Ziel näher zu kommen, dass nämlich der Sensor zuverlässig Werte ausgibt, die stimmen und eine RGB-LED, die die Farben richtig wiedergibt. Auch das hat bisher mehr schlecht als recht funktioniert. Zumindest konnte ich nun das Problem finden, was dazu führte, dass die RGB-LED vermeintlich falsche Werte ausgab. Erst durch ausprobieren jeder einzelnen LED innerhalb der RGB-LED kam ich auf den Schluss, dass die blaue Diode einen Fehler hat und nicht mehr leichtet. So kommt es zu dem Problem, dass dauerhaft die Blauwerte in der Farbmischung der LED fehlen und es am Ende andere Farbtöne sind, als der Farbsensor erkennt. Um dieses Problem weiter zu behandeln, muss eine neue RGB-LED bestellt werden. Eine einfache Übergangslösung mithilfe von drei einzelnen LEDs in rot, grün und blau ist nicht ohne großen Schreibaufwand im Sketch möglich, sodass ich dieses Nebenprojekt einstelle bis die neue RGB-LED angekommen ist. 
@@ -111,4 +111,5 @@ Aufbau des Arduinos
 - https://www.arduinolibraries.info/libraries/md_tcs230
 - https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
 - https://www.arduino.cc/reference/en/libraries/freqcount/
-
+- https://forum.arduino.cc/t/mit-dem-farbsensor-tcs-320-rot-erkennen-und-einen-servo-ansteuern/623354 
+- https://dronebotworkshop.com/arduino-color-sense/
