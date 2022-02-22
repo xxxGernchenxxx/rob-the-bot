@@ -99,9 +99,13 @@ Aufbau des Arduinos
   Am Abend habe ich dann noch neue Teile für das Projekt bei Funduino bestellt. So habe ich eine neue RGB-LED bestellt und einen zweiten Servo, um den Aufbau zu komplimitieren. 
   
 
+<b>Dienstag, der 22.02.2022</b><br>
+
+  In dieser Stunde habe ich an der Farberkennung für verschiedene Farben weitergearbeitet. Heute habe ich mich auch an "schwierigere" Farben getraut, die sich aus den Rot-, Grün- und Blauwerten in einer bestimmten Mischung ergeben. Der erste Farbton, der nun lesbar ist, ist Gelb. 
+  Ebenso habe ich versucht die Anzeige für die erkannte Farbe zu verbessern, da die erkannte Farbe bislang im Serial Monitor vor den RGB-Werten angegeben wurde. Da aber die Farben unterschiedlich lange Wörter sind, habe ich mich dazu entschieden durch die Funktion "Serial.println(Erkannte Farbe: xxx)" in eine neue Zeile zu schreiben und somit weiterhin für Übersichtlichkeit zu sorgen. 
+  
+  
 <h3 id="kapitel3">3. Materialien</a></h3>
-
-
 
 [x] Arduino Uno R3<br>
 [x] Breadboard<br>
