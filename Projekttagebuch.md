@@ -93,6 +93,11 @@ Aufbau des Arduinos
   Seit der letzten Stunde habe ich viele Stunden in das Projekt gesteckt und versucht dem Ziel näher zu kommen, dass nämlich der Sensor zuverlässig Werte ausgibt, die stimmen und eine RGB-LED, die die Farben richtig wiedergibt. Auch das hat bisher mehr schlecht als recht funktioniert. Zumindest konnte ich nun das Problem finden, was dazu führte, dass die RGB-LED vermeintlich falsche Werte ausgab. Erst durch ausprobieren jeder einzelnen LED innerhalb der RGB-LED kam ich auf den Schluss, dass die blaue Diode einen Fehler hat und nicht mehr leichtet. So kommt es zu dem Problem, dass dauerhaft die Blauwerte in der Farbmischung der LED fehlen und es am Ende andere Farbtöne sind, als der Farbsensor erkennt. Um dieses Problem weiter zu behandeln, muss eine neue RGB-LED bestellt werden. Eine einfache Übergangslösung mithilfe von drei einzelnen LEDs in rot, grün und blau ist nicht ohne großen Schreibaufwand im Sketch möglich, sodass ich dieses Nebenprojekt einstelle bis die neue RGB-LED angekommen ist. 
   Daher habe ich mich nun der Aufgabe gewidmet, dass jede Farbe eine Winkelposition für den Servo-Motor erhält. Dazu habe ich heute angefangen im Internet zu suchen, wie man Farbbereiche festlegt, da "rot" nicht gleich "rot" ist und "blau" nicht gleich "blau". So habe ich angefangen mich über die Arduino-Befehle "frequency", "pulseln" und der einfachen "if-else-Schleife" zu informieren. Am Abend habe dann schonmal eine einfache if-Schleife angefangen, die auch in den Gründzügen schon funktioniert. Die nächsten Schritte sind damit logischerweise, dass es einige Positionen für die Farben auf dem Servo-Motor gibt.
   
+<b>Mittwoch, der 16.02.2022</b><br>
+  
+  Nachdem ich gestern schon mit der if-Schleife angefangen habe, habe diese heute weitergeschrieben. Damit ist es nun möglich Rot, Grün und Blau sehr zuverlässig vom Farbsensor erkennen zu lassen. Die Farberkennung für Weiß funktioniert bislang noch nicht ganz, da es mit den anderen Definitionsbereichen, unter anderem mit dem für Rot, Überschneidungen gibt und der Arduino dann "Rot-Weiß" ausliest. Diese Schwäche gilt es in der nächsten Stunde zu beseitigen. 
+  Am Abend habe ich dann noch neue Teile für das Projekt bei Funduino bestellt. So habe ich eine neue RGB-LED bestellt und einen zweiten Servo, um den Aufbau zu komplimitieren. 
+  
 
 <h3 id="kapitel3">3. Materialien</a></h3>
 
@@ -100,9 +105,10 @@ Aufbau des Arduinos
 
 [x] Arduino Uno R3<br>
 [x] Breadboard<br>
-[x] Farbsensor GY-...<br>
+[x] Farbsensor GY-31<br>
 [x] Servo-Motoren<br>
 [x] Kabel<br>
+[x] RGB-LED<br>
 
 <h3 id="kapitel4">4. Quellen</a></h3></li>
 
@@ -114,3 +120,4 @@ Aufbau des Arduinos
 - https://www.arduino.cc/reference/en/libraries/freqcount/
 - https://forum.arduino.cc/t/mit-dem-farbsensor-tcs-320-rot-erkennen-und-einen-servo-ansteuern/623354 
 - https://dronebotworkshop.com/arduino-color-sense/
+- https://www.farb-tabelle.de/de/farbtabelle.htm 
