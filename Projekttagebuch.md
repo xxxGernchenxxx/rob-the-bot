@@ -112,6 +112,8 @@ Aufbau des Arduinos
   
   Anzeige der drei Farben zur gleichen Zeit
   
+  Deshalb habe ich mich dazu entschieden, dass ich eine if-else-Schleife anstatt der einfachen if-Schleife einbaue, da diese Funktion deutlich komplexere Anwendungen zulässt und ich dadurch nur eine Farbe ausgegeben bekomme. 
+  
 <h3 id="kapitel3">3. Materialien</a></h3>
 
 [x] Arduino Uno R3<br>
