@@ -106,13 +106,14 @@ Aufbau des Arduinos
   
 <b>Mittwoch, der 23.02.2022</b><br>
 
-  Die neue Weise des Aufschriebs der erkannten Farbe funktioniert an sich gut und ist auch übersichtlich, jedoch kommt es durch die Software häufiger zu Problemen mit dem Farbton Gelb, da die if-Schleife dreimal von bisherigen fünf if-Schleifen für "true" befunden wird und es deshalb zu der Farbausgabe "Rot", "Weiß" und "Gelb" kommt. Das stellt natürlich ein Problem für die Sortierung der Smarties bzw. später einmal Legosteinen dar. 
+  Die neue Weise des Aufschriebs der erkannten Farbe funktioniert an sich gut und ist auch übersichtlich, jedoch kommt es durch die Software häufiger zu Problemen mit dem Farbton Gelb, da die if-Schleife dreimal von bisherigen fünf if-Schleifen für "true" befunden wird und es deshalb zu der Farbausgabe "Rot", "Weiß" und "Gelb" kommt. Das stellt natürlich ein Problem für die Sortierung der Farben dar. 
   
   ![if Schleife](https://user-images.githubusercontent.com/88386279/155320218-ffb6d12f-7b5b-433d-83df-f8b29610f5aa.PNG)
   
   Anzeige der drei Farben zur gleichen Zeit
   
   Deshalb habe ich mich dazu entschieden, dass ich eine if-else-Schleife anstatt der einfachen if-Schleife einbaue, da diese Funktion deutlich komplexere Anwendungen zulässt und ich dadurch nur eine Farbe ausgegeben bekomme. 
+  Ebenfalls habe ich mich nun entschieden, dass ich ein Zwischenprojekt in das Hauptprojekt einbaue, dass im Falle, dass die Lego-Sortiermaschine aus mechanischen Gründen nicht funktionieren sollte, auch als Hauptprojekt akzeptabel ist. Dieses Nebenprojekt ist eine Schokolinsensortiermaschine, die einfacher zu bauen ist, da die Körper alle die gleiche Größe haben.
   
 <h3 id="kapitel3">3. Materialien</a></h3>
 
