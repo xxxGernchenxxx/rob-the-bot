@@ -109,7 +109,7 @@ Aufbau des Arduinos
   Die neue Weise des Aufschriebs der erkannten Farbe funktioniert an sich gut und ist auch übersichtlich, jedoch kommt es durch die Software häufiger zu Problemen mit dem Farbton Gelb, da die if-Schleife dreimal von bisherigen fünf if-Schleifen für "true" befunden wird und es deshalb zu der Farbausgabe "Rot", "Weiß" und "Gelb" kommt. Das stellt natürlich ein Problem für die Sortierung der Smarties bzw. später einmal Legosteinen dar. 
   
   ![if Schleife](https://user-images.githubusercontent.com/88386279/155320218-ffb6d12f-7b5b-433d-83df-f8b29610f5aa.PNG)
-Anzeige der drei Farben zur gleichen Zeit
+  Anzeige der drei Farben zur gleichen Zeit
   
 <h3 id="kapitel3">3. Materialien</a></h3>
 
