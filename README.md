@@ -13,5 +13,5 @@ Willkommen zu meinem Projekt. Dies ist eine Übersicht für die eigentlichen Pro
 <b>Projektseite</b><br>
   Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br><br>
 
-<h2 id="contributors">contributors:</h2>
+<h2 id="contributors">contributors</h2>
 <b>@xxxGernchenxxx</b> alias Gernot Zesch<br>
