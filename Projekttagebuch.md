@@ -27,17 +27,17 @@ Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt 
 <b>Dienstag, der 11.01.2022</b><br>
 
   In dieser ersten Doppelstunde des neuen Jahres habe ich bei GitHub angfangen, das neue Projekt zu erstellen. Dazu habe ich ein neues Repository erstellt und eine File eingefügt, in der ich nun das Projekttagebuch erstelle. Hier werden jegliche Arbeitsschritte dokumentiert.
-Während der Ferien und heute habe ich weiter über die Idee eines Roboters und dessen Funktionen nachgedacht. Dabei bin ich auf einen Farbsensor im Internet gestoßen, der interassente Anwendungsmöglichkeiten zulässt. Für einen Roboter bin ich nicht merklich weitergekommen, weil die Umsetzung des Fahrwerks mit Rädern oder Ketten schwierig ist und auch die praxisnahen Funktionen nicht einfach zu programmieren sind. Deshalb habe ich mich gegen den Bau eines Roboters entschieden. Bei Recherchen im Internet zu Farbsensoren und anderen technischen Komponenten bin ich auf eine Sortiermaschine für bunte Schokolinsen gestoßen. Diese Idee finde ich sehr interessant und außergwöhnlich. Zudem scheint die Umsetzung nicht besonders schwierig, sodass ich mich nun auch auf eine Sortiermaschine konzentrieren möchte, die allerdings Legosteine nach Farben sortiert.<br></p> 
+Während der Ferien und heute habe ich weiter über die Idee eines Roboters und dessen Funktionen nachgedacht. Dabei bin ich auf einen Farbsensor im Internet gestoßen, der interessante Anwendungsmöglichkeiten zulässt. Für einen Roboter bin ich nicht merklich weitergekommen, weil die Umsetzung des Fahrwerks mit Rädern oder Ketten schwierig ist und auch die praxisnahen Funktionen nicht einfach zu programmieren sind. Deshalb habe ich mich gegen den Bau eines Roboters entschieden. Bei Recherchen im Internet zu Farbsensoren und anderen technischen Komponenten bin ich auf eine Sortiermaschine für bunte Schokolinsen gestoßen. Diese Idee finde ich sehr interessant und außergwöhnlich. Zudem scheint die Umsetzung nicht besonders schwierig, sodass ich mich nun auch auf eine Sortiermaschine konzentrieren möchte, die allerdings Legosteine nach Farben sortiert.<br></p> 
 
 
 <b>Mittwoch, der 12.01.2022</b><br>
 
-  Nachdem ich mich letzte Stunde gegen den Bau eines Roboters entschieden habe und nun eine Sortiermaschine basteln möchte, habe ich an dieser Idee weitergearbeitet. Die Maschine soll möglichst Legosteine nach Farbe sortieren und dann, wenn möglich auch noch nach Größe. Das Funktionsprinzip dieser Schritte habe ich mir heute weiter überlegt.<br></p>
+  Nachdem ich mich letzte Stunde gegen den Bau eines Roboters entschieden habe und nun eine Sortiermaschine basteln möchte, habe ich an dieser Idee weitergearbeitet. Die Maschine soll möglichst Legosteine nach Farbe sortieren und dann, wenn möglich auch noch nach Größe. Das Funktionsprinzip dieser Schritte habe ich mir heute weiter überlegt. Doch hier stellen sich die ersten Schwierigkeiten mir in den Weg, da die Quader sich leicht verkanten und eine mechanische Lösung kompliziert ist. Deshalb fokussiere ich mich ab diesem Zeitpunkt auf die Umsetzung einer Sortiermaschine für Schokolinsen. Trotzdem möchte ich das Hauptprojekt mit den Legosteinen nicht vernachlässigen und mir weiterhin Gedanken zu diesem Thema machen, da mich beide Wege am Ende einem funktionsfähigen Projekt näher bringen.<br></p>
   
   
 <b>Dienstag, der 18.01.2022</b><br>
 
-  Heute habe ich mich primär mit der Thematik beschäftigt, welcher Farbsensor verwendet werden soll und wie die Legosteine zu dem Farbsensor gelangen, sodass sie richtig zugeordnet werden können. Das umfasst nicht nur die Problematik, dass die Legosteine nur einzeln in dem Bereich des Farbsensors sein dürfen, damit dieser fehlerfrei funktionieren kann, sondern auch jene, dass die Legosteine dazu neigen, sich schnell zu verkanten. 
+  Heute habe ich mich primär mit der Thematik beschäftigt, welcher Farbsensor verwendet werden soll und wie die Legosteine bzw. Schokolinsen zu dem Farbsensor gelangen, sodass sie richtig zugeordnet werden können. Das umfasst nicht nur die Problematik, dass die Legosteine / Schokolinsen nur einzeln in dem Bereich des Farbsensors sein dürfen, damit dieser fehlerfrei funktionieren kann, sondern auch jene, dass die Legosteine dazu neigen, sich schnell zu verkanten. 
   
   
   Deshalb habe ich mich heute genau um diese Probleme gekümmert und habe einen vorläufigen Aufbau entwickelt. Hierzu würde als Farbsensor der TCS3200 von Adafruit zum Einsatz kommen, der die Farben Rot, Grün und Blau erkennt. Diese drei Farben werden dann über ein Fließband in den jeweiligen Sammelbehälter befördert und alle anderen Farben in einen vierten Farbtopf. Weiterhin bleiben jedoch das Problem des Verkantens im Trichter und die Tatsache, dass mehrere Steine auf einmal an dem Sensor "vorbeilaufen" akut. Eine mögliche Lösung wäre eine mechanische Sperre auf dem Fließband vor dem Sensor oder eine Art Schnecke, die im Trichter jeden Stein ausrichtet und daher einen Abstand zwischen den Steinen schafft. 
@@ -54,7 +54,7 @@ Während der Ferien und heute habe ich weiter über die Idee eines Roboters und 
 
 <b>Donnerstag, der 20.01.2022</b><br>
 
-  Heute habe ich mich verstärkt darum gekümmert, dass der Farbsensor die ersten Farben erkennt. Dazu habe ich mich einem Aufbau im Internet bedient und konnte damit erste Erfolge erzielen. Grün und Blau werden vom Farbsensor fast ohne Probleme erkannt. Allerdings wird Rot gar nicht erkannt. Ebenso sollten die farbigen LEDs im Grundzustand nicht leuchten und nur wenn der Farbsensor eine Farbe erkennt auflecuhten. Im Moment leuchten alle und die richtige LED geht dann aus, wenn diese Farbe erkannt wird. Das untenstehende Video kann direkt bei GitHub.com angeschaut werden und zeigt die Erfolge, aber auch die Problematiken.
+  Heute habe ich mich verstärkt darum gekümmert, dass der Farbsensor die ersten Farben erkennt. Dazu habe ich mich einem Aufbau im Internet bedient und konnte damit erste Erfolge erzielen. Grün und Blau werden vom Farbsensor fast ohne Probleme erkannt. Allerdings wird Rot gar nicht erkannt. Ebenso sollten die farbigen LEDs im Grundzustand nicht leuchten und nur wenn der Farbsensor eine Farbe erkennt auflecuhten. Im Moment leuchten alle und die richtige LED geht dann aus, wenn diese Farbe erkannt wird. Das untenstehende Video kann direkt bei GitHub.com angeschaut werden und zeigt die Erfolge, aber auch die Probleme.
   
 https://user-images.githubusercontent.com/88386279/150375232-2c323866-8752-4dd2-be7b-aaf81a15e1e7.mp4
 
@@ -112,8 +112,12 @@ Aufbau des Arduinos
   
   Anzeige der drei Farben zur gleichen Zeit
   
-  Deshalb habe ich mich dazu entschieden, dass ich eine if-else-Schleife anstatt der einfachen if-Schleife einbaue, da diese Funktion deutlich komplexere Anwendungen zulässt und ich dadurch nur eine Farbe ausgegeben bekomme. 
-  Ebenfalls habe ich mich nun entschieden, dass ich ein Zwischenprojekt in das Hauptprojekt einbaue, dass im Falle, dass die Lego-Sortiermaschine aus mechanischen Gründen nicht funktionieren sollte, auch als Hauptprojekt akzeptabel ist. Dieses Nebenprojekt ist eine Schokolinsensortiermaschine, die einfacher zu bauen ist, da die Körper alle die gleiche Größe haben.
+  Deshalb habe ich mich dazu entschieden, dass ich eine if-else-Schleife anstatt der einfachen if-Schleife einbaue, da diese Funktion deutlich komplexere Anwendungen zulässt und ich dadurch nur eine Farbe ausgegeben bekomme.
+  
+<b>Dienstag, 01.03.2022</b<br>
+  
+  Über das Wochenenede habe ich mich dazu entschieden, dass ich im nächsten Schritt den Korpus der Sortiermaschine für Schokolinsen baue, um damit zu überprüfen, ob der geplante Aufbau mit den Servos und dem Farbsensor richtig funktioniert. Danach kann ich dann trotzdem die Farberkennung weiterprogrammieren, da sie nur von der Software abhängig ist und nicht von der Hardware. Wichtig ist es, dass bei der Erarbeitung des Aufbaus genügend Sammelbehälter für die verschiedenen Farben berücksichtigt werden. 
+  Dementsprechend habe ich mich heute vorwiegend mit der Planung des Aufbaus beschäftigt und nebenbei die GitHub-Seiten überarbeitet und um ein ReadMe ergänzt.
   
 <h3 id="kapitel3">3. Materialien</a></h3>
 
