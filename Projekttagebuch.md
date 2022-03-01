@@ -10,7 +10,7 @@ Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt 
 <li><a href="#kapitel4">4. Quellen</a></h2></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
-<p>In kürze wird hier die Einleitung stehen!<br></p>
+<p>Jeder kennt die Situation, dass unsortierte farbige Dinge vor einem auf dem Tisch liegen und einen selbst stört diese Tatsache. Wenige Legosteine oder Schokolinsen zu sortieren, ist kein Problem. Doch bei vielen Steinen wird es zunehmend ein Problem und vor allem eine moonotone Arbeit. Dafür wäre eine Maschine, die diese Arbeit abnimmt bestens geeignet. Ein einfacher Farbsensor mit zwei Motoren im richtigen Zusammenspiel sollten ausreichen, dass die monotone Arbeit wegfällt und der "innere Monk" zufriedengestellt wird.<br></p>
 
 <h3 id="kapitel2">2. Stundenprotokoll</a></h2></li>
 
