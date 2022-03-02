@@ -114,7 +114,7 @@ Aufbau des Arduinos
   
   Deshalb habe ich mich dazu entschieden, dass ich eine if-else-Schleife anstatt der einfachen if-Schleife einbaue, da diese Funktion deutlich komplexere Anwendungen zulässt und ich dadurch nur eine Farbe ausgegeben bekomme.
   
-<b>Dienstag, 01.03.2022</b<br>
+<b>Dienstag, 01.03.2022</b><br>
   
   Über das Wochenenede habe ich mich dazu entschieden, dass ich im nächsten Schritt den Korpus der Sortiermaschine für Schokolinsen baue, um damit zu überprüfen, ob der geplante Aufbau mit den Servos und dem Farbsensor richtig funktioniert. Danach kann ich dann trotzdem die Farberkennung weiterprogrammieren, da sie nur von der Software abhängig ist und nicht von der Hardware. Wichtig ist es, dass bei der Erarbeitung des Aufbaus genügend Sammelbehälter für die verschiedenen Farben berücksichtigt werden. 
   Dementsprechend habe ich mich heute vorwiegend mit der Planung des Aufbaus beschäftigt und nebenbei die GitHub-Seiten überarbeitet und um ein ReadMe ergänzt.
