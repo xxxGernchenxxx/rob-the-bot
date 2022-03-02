@@ -151,3 +151,4 @@ Aufbau des Arduinos
 - https://forum.arduino.cc/t/mit-dem-farbsensor-tcs-320-rot-erkennen-und-einen-servo-ansteuern/623354 
 - https://dronebotworkshop.com/arduino-color-sense/
 - https://www.farb-tabelle.de/de/farbtabelle.htm 
+- https://www.arduino.cc/reference/de/
