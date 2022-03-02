@@ -131,7 +131,7 @@ Aufbau des Arduinos
   Zudem habe ich heute begonnen die Maschine nach den Plänen zu bauen und die ersten Elektronikkomponenten an die richtigen Stellen zu bringen.
   
   
-  <FONT SIZE="5">Hallo, ich bin ein Text der Grösse 5</FONT>
+  <FONT SIZE="7">Hallo, ich bin ein Text der Grösse 5</FONT>
 
   
 <h3 id="kapitel3">3. Materialien</a></h3>
