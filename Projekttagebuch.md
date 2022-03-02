@@ -125,7 +125,7 @@ Aufbau des Arduinos
   
   ![image](https://user-images.githubusercontent.com/88386279/156361523-0b89e777-1f5f-4018-889e-6804c4372c38.jpeg)
   
-  Obere Skizze: FUnktionsweise
+  Obere Skizze: Funktionsweise<br>
   Untere Skizze: Geplante Draufsicht auf die fertige Schokolinsen-Sortiermaschine
   
 <h3 id="kapitel3">3. Materialien</a></h3>
