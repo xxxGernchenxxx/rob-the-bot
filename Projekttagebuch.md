@@ -119,6 +119,15 @@ Aufbau des Arduinos
   Über das Wochenenede habe ich mich dazu entschieden, dass ich im nächsten Schritt den Korpus der Sortiermaschine für Schokolinsen baue, um damit zu überprüfen, ob der geplante Aufbau mit den Servos und dem Farbsensor richtig funktioniert. Danach kann ich dann trotzdem die Farberkennung weiterprogrammieren, da sie nur von der Software abhängig ist und nicht von der Hardware. Wichtig ist es, dass bei der Erarbeitung des Aufbaus genügend Sammelbehälter für die verschiedenen Farben berücksichtigt werden. 
   Dementsprechend habe ich mich heute vorwiegend mit der Planung des Aufbaus beschäftigt und nebenbei die GitHub-Seiten überarbeitet und um ein ReadMe ergänzt.
   
+<b>Mittwoch, 02.03.2022</b><br>
+
+  In dieser Stunde habe ich weiter den Bauzeichnungen gearbeitet und die Konstruktion auf Funktionsfähigkeit überdacht. Am Ende bin ich zu einer Form eines Quaders gekommen, der oben eine Öffnung, wo die zu sortiereneden Schokolinsen eingefüllt werden, und unten an der Stirnseite kleine "Schubladen" bzw. Entnahmemöglichkeiten hat, wo die sortierten Schokolinsen herausgenommen werden können.
+  
+  ![image](https://user-images.githubusercontent.com/88386279/156361523-0b89e777-1f5f-4018-889e-6804c4372c38.jpeg)
+  
+  Obere Skizze: FUnktionsweise
+  Untere Skizze: Geplante Draufsicht auf die fertige Schokolinsen-Sortiermaschine
+  
 <h3 id="kapitel3">3. Materialien</a></h3>
 
 [x] Arduino Uno R3<br>
