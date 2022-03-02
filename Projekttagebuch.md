@@ -126,15 +126,17 @@ Aufbau des Arduinos
   ![image](https://user-images.githubusercontent.com/88386279/156361523-0b89e777-1f5f-4018-889e-6804c4372c38.jpeg)
   
   Obere Skizze: Funktionsweise<br>
-  Untere Skizze: Geplante Draufsicht auf die fertige Schokolinsen-Sortiermaschine
+  Untere Skizze: Geplante Draufsicht auf die fertige Schokolinsen-Sortiermaschine<br>
+  
+  Zudem habe ich heute begonnen die Maschine nach den Plänen zu bauen und die ersten Elektronikkomponenten an die richtigen Stellen zu bringen.
   
 <h3 id="kapitel3">3. Materialien</a></h3>
 
 [x] Arduino Uno R3<br>
 [x] Breadboard<br>
 [x] Farbsensor GY-31<br>
-[x] Servo-Motoren<br>
-[x] Kabel<br>
+[x] 2 Servo-Motoren<br>
+[x] Kabel (männlich-männlich; weiblich-weiblich)<br>
 [x] RGB-LED<br>
 
 <h3 id="kapitel4">4. Quellen</a></h3></li>
