@@ -4,12 +4,12 @@ Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt 
 
 <h3> Inhalt </h3>
 <ul style="list-stlye-type:none">
-<li><a href="#kapitell">1. Einleitung</a></h2></li>
+<li><a href="#kapitel1">1. Einleitung</a></h2></li>
 <li><a href="#kapitel2">2. Stundenprotokoll</a></h2></li>
 <li><a href="#kapitel3">3. Materialien</a></h2></li>
 <li><a href="#kapitel4">4. Quellen</a></h2></li>
 <br>
-<h2 id="kapitell">1. Einleitung</h2>
+<h2 id="kapitel1">1. Einleitung</h2>
 <p>Jeder kennt die Situation, dass unsortierte farbige Dinge vor einem auf dem Tisch liegen und einen selbst stört diese Tatsache. Wenige Legosteine oder Schokolinsen zu sortieren, ist kein Problem. Doch bei vielen Steinen wird es zunehmend ein Problem und vor allem eine moonotone Arbeit. Dafür wäre eine Maschine, die diese Arbeit abnimmt bestens geeignet. Ein einfacher Farbsensor mit zwei Motoren im richtigen Zusammenspiel sollten ausreichen, dass die monotone Arbeit wegfällt und der "innere Monk" zufriedengestellt wird.<br></p>
 
 <h3 id="kapitel2">2. Stundenprotokoll</a></h2></li>
@@ -128,10 +128,7 @@ Aufbau des Arduinos
   Obere Skizze: Funktionsweise<br>
   Untere Skizze: Geplante Draufsicht auf die fertige Schokolinsen-Sortiermaschine<br>
   
-  Zudem habe ich heute begonnen die Maschine nach den Plänen zu bauen und die ersten Elektronikkomponenten an die richtigen Stellen zu bringen.
-  
-  
-  <FONT SIZE="7">Hallo, ich bin ein Text der Grösse 5</FONT>
+  Zudem habe ich heute begonnen die Maschine anhand der angefertigten Pläne zu bauen und die ersten Elektronikkomponenten an die richtigen Stellen zu bringen.
 
   
 <h3 id="kapitel3">3. Materialien</a></h3>
