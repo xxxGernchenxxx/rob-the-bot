@@ -128,7 +128,7 @@ Aufbau des Arduinos
   Obere Skizze: Funktionsweise<br>
   Untere Skizze: Geplante Draufsicht auf die fertige Schokolinsen-Sortiermaschine<br>
   
-  Zudem habe ich heute begonnen die Maschine anhand der angefertigten Pläne zu bauen und die ersten Elektronikkomponenten an die richtigen Stellen zu bringen.
+  Zudem habe ich heute begonnen, die Maschine anhand der angefertigten Pläne zu bauen und die ersten Elektronikkomponenten an die richtigen Stellen zu bringen.
 
   
 <h3 id="kapitel3">3. Materialien</a></h3>
