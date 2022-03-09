@@ -138,7 +138,7 @@ Aufbau des Arduinos
 
   Heute habe ich die neue Skize für den Aufbau entworfen und mich dem weiteren Bau des Gehäuses gewidmet, damit ich möglichst zeitnah mit dem Einabu der Technik beginnen kann und in der Folge die Farbwerte für die sechs verschiedenen Farben der Schokolinsen von M&M bestimmen kann. 
   
-  ![image](https://user-images.githubusercontent.com/88386279/157540933-8b3fa102-9bcb-4a63-b483-253634ac7858.jpeg)
+  ![image](https://user-images.githubusercontent.com/88386279/157540933-8b3fa102-9bcb-4a63-b483-253634ac7858.jpeg)<br>
   Der neue Aufbau der Sortiermaschine (Außenansicht)
  
   
