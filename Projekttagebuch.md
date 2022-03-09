@@ -132,11 +132,15 @@ Aufbau des Arduinos
 
 <b>Sonntag, 06.03.2022</b><br>
 
-  Am Wochenende habe ich angefangen, das Gehäuse für die Technik aus Holz zu bauen. Dabei habe ich die Konzeption noch etwas geändert, da ich Bedenken hinsichtlich der Umsetzung und der anschließenden Funktionstüchtigkeit hatte. Von den technischen Komponenten bleibt der Aufbau gleich. Als einzige Veränderung ist die Sortiermaschine nun deutlich höher als breit, da ich dadurch größere Gefälle zur Verfügung habe, damit die Schokolinsen schneller rutschen und nicht liegen bleiben.
+  Am Wochenende habe ich angefangen, das Gehäuse für die Technik aus Holz zu bauen. Dabei habe ich die Konzeption noch etwas geändert, da ich Bedenken hinsichtlich der Umsetzung und der anschließenden Funktionstüchtigkeit hatte. Von den technischen Komponenten bleibt der Aufbau gleich. Als einzige Veränderung ist die Sortiermaschine nun deutlich höher als breit, da ich dadurch größere Gefälle zur Verfügung habe, damit die Schokolinsen schneller rutschen und nicht auf der Rutsche liegen bleiben.
   
 <b>Mittwoch, 09.03.2022</b><br>
 
   Heute habe ich die neue Skize für den Aufbau entworfen und mich dem weiteren Bau des Gehäuses gewidmet, damit ich möglichst zeitnah mit dem Einabu der Technik beginnen kann und in der Folge die Farbwerte für die sechs verschiedenen Farben der Schokolinsen von M&M bestimmen kann. 
+  
+  ![image](https://user-images.githubusercontent.com/88386279/157540933-8b3fa102-9bcb-4a63-b483-253634ac7858.jpeg)
+  Der neue Aufbau der Sortiermaschine (Außenansicht)
+ 
   
 <h3 id="kapitel3">3. Materialien</a></h3>
 
