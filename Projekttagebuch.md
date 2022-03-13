@@ -140,7 +140,11 @@ Aufbau des Arduinos
   
   ![image](https://user-images.githubusercontent.com/88386279/157540933-8b3fa102-9bcb-4a63-b483-253634ac7858.jpeg)<br>
   Der neue Aufbau der Sortiermaschine (Außenansicht)
- 
+  
+<b>Samstag, 12.03.2022</b><br>
+
+  Heute habe ich nich einige Materialien aus dem Baumarkt besorgt und mich um die Positionierung der Motoren im Gehäuse beschäftigt. Einer der Motoren übernimmt die Aufgabe die Schokolinsen vom Voratsbehälter zum Farbsensor zu bewegen und anschließend auf die Rutsche zu bringen. Diese Rutsche führt direkt in den richtigen 
+
   
 <h3 id="kapitel3">3. Materialien</a></h3>
 
