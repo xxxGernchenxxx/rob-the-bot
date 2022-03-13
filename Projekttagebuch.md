@@ -143,7 +143,7 @@ Aufbau des Arduinos
   
 <b>Samstag, 12.03.2022</b><br>
 
-  Heute habe ich nich einige Materialien aus dem Baumarkt besorgt und mich um die Positionierung der Motoren im Gehäuse beschäftigt. Einer der Motoren übernimmt die Aufgabe die Schokolinsen vom Voratsbehälter zum Farbsensor zu bewegen und anschließend auf die Rutsche zu bringen. Diese Rutsche führt direkt in den richtigen 
+  Heute habe ich nich einige Materialien aus dem Baumarkt besorgt und mich um die Positionierung der Motoren im Gehäuse beschäftigt. Einer der Motoren übernimmt die Aufgabe die Schokolinsen vom Vorratsbehälter zum Farbsensor zu bewegen und anschließend auf die Rutsche zu bringen. Diese Rutsche führt direkt in den richtigen Sammelbehälter und wird über den anderen Servo-Motor gesteuert. Wichtig dabei ist, dass man die Postion des Motors beachtet, damit eine Optimale Balance der durch die Motoren beweglichen Teile erhält und damit auch eine optimale Kraftausbeute bzw. Schnelligkeit erreicht wird. Werden diese Positionen nicht beachtet, kommt es wahrscheinlich zu ungeahnten Komplikationen im Betrieb, die durch eine sorgfältige Planung leicht zu umgehen sind. 
 
   
 <h3 id="kapitel3">3. Materialien</a></h3>
