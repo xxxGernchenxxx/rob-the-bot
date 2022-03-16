@@ -112,8 +112,6 @@ Aufbau des Arduinos
   
   Anzeige der drei Farben zur gleichen Zeit
   
-  Deshalb habe ich mich dazu entschieden, dass ich eine if-else-Schleife anstatt der einfachen if-Schleife einbaue, da diese Funktion deutlich komplexere Anwendungen zulässt und ich dadurch nur eine Farbe ausgegeben bekomme.
-  
 <b>Dienstag, 01.03.2022</b><br>
   
   Über das Wochenenede habe ich mich dazu entschieden, dass ich im nächsten Schritt den Korpus der Sortiermaschine für Schokolinsen baue, um damit zu überprüfen, ob der geplante Aufbau mit den Servos und dem Farbsensor richtig funktioniert. Danach kann ich dann trotzdem die Farberkennung weiterprogrammieren, da sie nur von der Software abhängig ist und nicht von der Hardware. Wichtig ist es, dass bei der Erarbeitung des Aufbaus genügend Sammelbehälter für die verschiedenen Farben berücksichtigt werden. 
@@ -143,7 +141,24 @@ Aufbau des Arduinos
   
 <b>Samstag, 12.03.2022</b><br>
 
-  Heute habe ich nich einige Materialien aus dem Baumarkt besorgt und mich um die Positionierung der Motoren im Gehäuse beschäftigt. Einer der Motoren übernimmt die Aufgabe die Schokolinsen vom Vorratsbehälter zum Farbsensor zu bewegen und anschließend auf die Rutsche zu bringen. Diese Rutsche führt direkt in den richtigen Sammelbehälter und wird über den anderen Servo-Motor gesteuert. Wichtig dabei ist, dass man die Postion des Motors beachtet, damit eine Optimale Balance der durch die Motoren beweglichen Teile erhält und damit auch eine optimale Kraftausbeute bzw. Schnelligkeit erreicht wird. Werden diese Positionen nicht beachtet, kommt es wahrscheinlich zu ungeahnten Komplikationen im Betrieb, die durch eine sorgfältige Planung leicht zu umgehen sind. 
+  Heute habe ich einige Materialien aus dem Baumarkt besorgt und mich um die Positionierung der Motoren im Gehäuse gekümmert. Einer der Motoren übernimmt die Aufgabe die Schokolinsen vom Vorratsbehälter zum Farbsensor zu bewegen und anschließend auf die Rutsche zu bringen. Diese Rutsche führt direkt in den richtigen Sammelbehälter und wird über den anderen Servo-Motor gesteuert. Wichtig dabei ist, dass man die Postion des Motors beachtet, damit eine optimale Balance der durch die Motoren beweglichen Teile erhält und damit auch eine optimale Kraftausbeute bzw. Schnelligkeit erreicht wird. Werden diese Positionen nicht beachtet, kommt es wahrscheinlich zu ungeahnten Komplikationen im Betrieb, die durch eine sorgfältige Planung leicht zu umgehen sind. 
+  
+<b>Sonntag, 13.03.2022</b><br>
+
+  Auch an diesem Tag habe ich an dem Gehäuse weitergearbeitet. Nach dem heutigen Tag habe ich die Bewegungseinheit, die die Schokolinse vom Vorratsbehälter zum Farbsensor bewegt und anschließend zur Rutsche bringt fertiggestellt.
+  
+  Bild folgt!!
+  
+<b>Dienstag, 15.03.2022</b><br>
+
+  Nachdem ich am Wochenende mit dem Bau des Gehäuses deutlich vorangekommen bin, konnte ich heute die einzelnen vormontierten Bauteile erstmals zusammenfügen und im Unterricht testen, ob alles so funktioniert, wie ich es mir vorgestellt habe. Insgesamt bin ich sehr zufrieden mit den bisherigen Ergebnissen. Die bewusst leichten Holzteile werden von den Servomotoren ohne Probleme zügig bewegt und auch die Stromversorgung durch den Computer reicht aus und wäre gegebenenfalls noch durch eine 9-Volt-Batterie zu verstärken. 
+  Bei dem ersten Praxistest ist mir nun auch ein Fehler bei einem Bauteil aufgefallen, der mir in der Planung noch nicht bewusst war, sodass ich dieses neukonstruieren muss.
+  Mit dem Test ergaben sich jedoch auch die ersten Schwierigkeiten. So ist es wichtig, dass die Motoren in ihrer Bewegung genau aufeinander abgestimmt sind, da ansonsten der Zweck der Sortiermaschine verloren geht und die Schokolinsen am Ende willkürlich in die Sammelbehälter rutschen und eine Farbsortierung nicht gewährleistet ist. 
+  Gegen Ende der Stunde habe ich mich wieder dem Sketch zugewandt und schon einige Winkelpositionen für die Servomotoren festgelegt und vorher noch den zweiten Servo in den Sketech intergriert. 
+  
+<b>Mittwoch, 16.03.2022</b><br>
+
+  In dieser Stunde habe ich mich nach einiger Zeit wieder der Dokumentation des Projekts bei GitHub zugewandt und einige Einträge verbessert und welche für die letzten drei Arbeitstage ergänzt.
 
   
 <h3 id="kapitel3">3. Materialien</a></h3>
