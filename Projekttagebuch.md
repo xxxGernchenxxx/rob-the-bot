@@ -164,7 +164,7 @@ Aufbau des Arduinos
 
   Nachdem ich die letzten Stunden vor allem an der Funktionstüchtigkeit der Servo-Motoren gearbeitet habe, habe heute wieder an der Farberkennung programmiert. Dabei sind mir wie beim letzten Mal die gleichen Schwierigkeiten wieder aufgefallen. Das Problem ist, dass der Arduino zwei oder mehr Farben bei einer Schokolinse erkennt. Dieser Fehler tritt jedoch erst dann auf, wenn ich außerhalb der drei Grundfarben Rot, Grün und Blau, versuche die anderen Farben Gelb, Orange und Braun zu programmieren. Bislang funktionieren diese Grundfarben einwandfrei und sicher im Betrieb. Das lieg daran, dass für diese Farben allgemeingültige Aussagen getroffen werden können, die für die anderen drei Farben nicht zu treffen sind. 
   
-![Allgemeingültige Aussage](https://user-images.githubusercontent.com/88386279/159514567-163870ad-4ff2-4898-8dab-78660d7fac32.PNG)
+![Allgemeingültige Aussage](https://user-images.githubusercontent.com/88386279/159514567-163870ad-4ff2-4898-8dab-78660d7fac32.PNG)<br>
 Allgemeingültige Aussage, d.h. ohne spezifische RGB-Werte
 
 
