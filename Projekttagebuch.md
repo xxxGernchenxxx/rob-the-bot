@@ -173,6 +173,14 @@ Allgemeingültige Aussage, d.h. ohne spezifische RGB-Werte
   Heute habe ich daher mit den bislang sicher erkannten Farben Rot, Grün und Blau den ersten richtigen Praxisversuch vorgenommen. Ich habe die verschiedenfarbigen Linsen in die Maschine befüllt und sie dann einfach laufen lassen. Währenddessen habe ich noch einige Verbesserungen gemacht, wie zum Beispiel die zeitliche Abstimmung von Bewegungen der Motoren und Winkelabstimmungen an den Servo-Motoren. Nun ist mir jedoch folgendes Problem aufgefallen:
   Die Schokolinsen werden teilweise trotz unterschiedlicher Farbe und richtiger Programmierung in den gleichen Sammelbehälter geworfen. Nach langem Überlegen ist mir dann bewusst geworden, dass der Farbsensor nicht synchron zu den Motorabläufen die Farben ausließt. Das bedeutet, dass der Sensor nicht Farbe der Schokolinse an die Motoren weitergibt, sondern die Farbe des Holzes. Dadurch werden alle Linsen in die gleiche Box befördert und nicht sortiert. Ein einfacher und vielversprechender Ansatz wäre, dass man die Zeit, in der die Schokolinse vom Sensor auf die Farbe untersucht wird, deutlich verlängert und dadurch das richtige Signal zugeordnet wird. Andere Lösungsmöglichkeiten wären die Abstimmung zwischen Motor und Sensor zu verfeinern. Diese Möglichkeit ist jedoch sehr aufwendig und schwierig, weshalb ich mich für erstere entshieden habe.
 
+<b>Sonntag, 10.04.2022</b><br>
+
+  Nach einigem Überlegen habe ich eine Lösung für das gestrige Problem gefunden, die deutlich besser als die gestern vorgesehene Lösung ist. Ich habe mir heute noch einmal den Sketch sorgfältig angesehen und habe einige Dinge im Loop geändert, sodass der Farbsensor jetzt häufiger die Farbe ausließt. Zudem habe ich den Loop in der Reihenfolge so umgestellt, dass die Motorbewegungen nun synchron mit dem Ausleseprozess des Farbsensors sind. Damit habe ich ein entscheidendes Problem gelöst. 
+  Auch habe ich heute eine Rutsche aus Modellbauplastik gebastelt, die bislang gut funktioniert. 
+  
+  ![20220411_114054](https://user-images.githubusercontent.com/88386279/162713268-683e94c6-4711-4e12-b229-f8f9babc9155.jpg)
+
+  ![20220411_114119](https://user-images.githubusercontent.com/88386279/162713279-6b48c5e0-e283-48b9-be9f-12c4cd5845d8.jpg)
 
   
 <h3 id="kapitel3">3. Materialien</a></h3>
