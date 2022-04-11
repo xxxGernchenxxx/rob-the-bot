@@ -178,8 +178,10 @@ Allgemeingültige Aussage, d.h. ohne spezifische RGB-Werte
   Nach einigem Überlegen habe ich eine Lösung für das gestrige Problem gefunden, die deutlich besser als die gestern vorgesehene Lösung ist. Ich habe mir heute noch einmal den Sketch sorgfältig angesehen und habe einige Dinge im Loop geändert, sodass der Farbsensor jetzt häufiger die Farbe ausließt. Zudem habe ich den Loop in der Reihenfolge so umgestellt, dass die Motorbewegungen nun synchron mit dem Ausleseprozess des Farbsensors sind. Damit habe ich ein entscheidendes Problem gelöst. 
   Auch habe ich heute eine Rutsche aus Modellbauplastik gebastelt, die bislang gut funktioniert. 
   
-   ![20220411_114054](https://user-images.githubusercontent.com/88386279/162713268-683e94c6-4711-4e12-b229-f8f9babc9155.jpg) |  ![20220411_114119](https://user-images.githubusercontent.com/88386279/162713279-6b48c5e0-e283-48b9-be9f-12c4cd5845d8.jpg)
+   ![20220411_114054](https://user-images.githubusercontent.com/88386279/162713268-683e94c6-4711-4e12-b229-f8f9babc9155.jpg) 
+   ![20220411_114119](https://user-images.githubusercontent.com/88386279/162713279-6b48c5e0-e283-48b9-be9f-12c4cd5845d8.jpg)
    
+Auf der Unterseite der Rutsche habe ich ein Aufnahmestück zwischen Servo-Motor und Rutsche mit Plastikkleber angeklebt.
 
 <h3 id="kapitel3">3. Materialien</a></h3>
 
@@ -189,6 +191,7 @@ Allgemeingültige Aussage, d.h. ohne spezifische RGB-Werte
 [x] 2 Servo-Motoren<br>
 [x] Kabel (männlich-männlich; weiblich-weiblich)<br>
 [x] RGB-LED<br>
+
 
 <h3 id="kapitel4">4. Quellen</a></h3></li>
 
