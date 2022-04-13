@@ -176,13 +176,23 @@ Allgemeingültige Aussage, d.h. ohne spezifische RGB-Werte
 <b>Sonntag, 10.04.2022</b><br>
 
   Nach einigem Überlegen habe ich eine Lösung für das gestrige Problem gefunden, die deutlich besser als die gestern vorgesehene Lösung ist. Ich habe mir heute noch einmal den Sketch sorgfältig angesehen und habe einige Dinge im Loop geändert, sodass der Farbsensor jetzt häufiger die Farbe ausließt. Zudem habe ich den Loop in der Reihenfolge so umgestellt, dass die Motorbewegungen nun synchron mit dem Ausleseprozess des Farbsensors sind. Damit habe ich ein entscheidendes Problem gelöst. 
-  Auch habe ich heute eine Rutsche aus Modellbauplastik gebastelt, die bislang gut funktioniert. 
+  Auch habe ich heute eine Rutsche aus Modellbauplastik gebastelt, die bislang gut funktioniert.
   
    ![20220411_114054](https://user-images.githubusercontent.com/88386279/162713268-683e94c6-4711-4e12-b229-f8f9babc9155.jpg) 
    ![20220411_114119](https://user-images.githubusercontent.com/88386279/162713279-6b48c5e0-e283-48b9-be9f-12c4cd5845d8.jpg)
    
 Auf der Unterseite der Rutsche habe ich ein Aufnahmestück zwischen Servo-Motor und Rutsche mit Plastikkleber angeklebt.
 
+<b>Montag, 11.04.2022</b><br>
+
+  Heute habe ich weiter an der Funktionstüchtigkeit gearbeitet. Da die Rutsche aus Plastik nun doch zu schwer war, habe ich eine aus Papier gebastelt. Diese ist leichter und lässt sich theoretisch vom Servo-Motor leichter bewegen. Leider haben sich jedoch auch wieder neue Probleme aufgetan, die wahrscheinlich auf den Arduino bzw. die Motoren zurückzuführen sind. Oftmals bewegen sie sich nicht so, wie im Sketch vorgesehen und auch programmiert.
+  
+
+<b>Mittowch, 13.04.2022</b><br>
+
+  Auch an diesem Tag habe ich weiter versucht, die Probleme und die unkontrollierten Bewegungen der Motoren zu lösen. Nach vielen Stunden erfolgloser Arbeit habe ich mich entschieden, mit dem Schreiben der Projektseite zu beginnen. Auf dieser stelle ich das geplante Projekt vor und reflektiere den Arbeitsprozess.
+  
+  
 <h3 id="kapitel3">3. Materialien</a></h3>
 
 [x] Arduino Uno R3<br>
