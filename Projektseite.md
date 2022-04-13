@@ -12,14 +12,15 @@ Diese Seite ist meine Projektseite. Hier stelle ich mein fertiges Projekt vor un
 <li><a href="#kapitel8">8. Eigenständigkeitserklärung</a></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
-  Auch wenn es skuril erscheinen mag, gibt es viele Menschen, die die Unordnung in Schokolinsen-Verpackungen bezüglich der Farbe nervt. Dann könnte man sie natürlich mit der Hand sortieren, aber eine automatisierte Maschine wäre in dem Fall einfacher und bestimmt auch cooler. Mit einer solchen Maschine lassen sich dann auch im größeren Stile Schokolinsen sortieren, um sie zum Beispiel auf Feiern anzubieten. 
+  Auch wenn es skuril erscheinen mag, gibt es viele Menschen, die die Unordnung in Schokolinsen-Verpackungen bezüglich der Farbe nervt. Dann könnte man sie natürlich mit der Hand sortieren, aber eine automatisierte Maschine wäre in dem Fall einfacher und bestimmt auch cooler. Mit einer solchen Maschine lassen sich dann auch im größeren Stile Schokolinsen sortieren, um sie zum Beispiel auf Feiern anzubieten.<br>
   
 <h2 id="kapitel2">2. Arduino und Sketch</h2>
   Der Arduino ist eine Physical-Computing-Platform, die aus Hard- und Software besteht. Der Arduino besteht aus einer Platine, einem darauf montierten Mikrocontroller und verschiedenen Anschlüssen. So gibt es digitale und analoge Pins, die je nach Anwendung mit Lampen, Mikromotoren, Sensoren oder anderer Hardware verbunden werden können. Bei den digitalen Pins gibt es noch eine zusätzliche Unterscheidung in Pins, bei denen eine ständig gleichbleibende Spannung anliegt und in jene, die mit eine Welle (~) gekennzeichnet sind. Diese Welle steht für die Abkürzung PWM. Pulse Width Modulation (PWM) heißt, dass die am Pin anliegende Spannung geändert werden kann und dies vor allem für dimmbare LEDs bzw. RGB-LEDs nützlich ist. Zudem hat der Arduino noch eine USB-Schnittstelle und einen weiteren Anschluss, um Netzteile oder Batterien mit einem Adapter anstecken zu können. Falls bei einem Projekt die Stromversorgung über das USB-Kabel mit dem Computer nicht ausreicht, kann dieser Anschluss für eine weitere externe Stromquelle genutzt werden.
 Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen oder mittels eines E/A-Boards mit Widerständen versehen. Damit ist unter anderem eine bessere Übersichtlichkeit der angeschlossenen Module gegeben.<br>
+  Von dem Arduino gibt es verschiedene Modelle. Bei diesem Projekt wurde ein Arduino R3 verwendet, der über fünf analoge und dreizehn digitale Pins verfügt. Zudem hat er wie jeder Mikrocontroller Minus-(GND) und Pluspole (3,5V / 5V). Neben diesen "Standardanschlüssen" gibt es noch einige weitere, die aber im Verlauf des Projektes nicht genutzt wurden.<br>
   
   
-  
+ 
 <h2 id="kapitel3">3. Projektentwicklung</h2>
   
   
