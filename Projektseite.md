@@ -12,7 +12,7 @@ Diese Seite ist meine Projektseite. Hier stelle ich mein fertiges Projekt vor un
 <li><a href="#kapitel8">8. Eigenständigkeitserklärung</a></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
-  
+  Auch wenn es skuril erscheinen mag, gibt es viele Menschen, die die Unordnung in Schokolinsen-Verpackungen bezüglich der Farbe nervt. Dann könnte man sie natürlich mit der Hand sortieren, aber eine automatisierte Maschine wäre in dem Fall einfacher und bestimmt auch cooler. Mit einer solchen Maschine lassen sich dann auch im größeren Stile Schokolinsen sortieren, um sie zum Beispiel auf Feiern anzubieten. 
   
 <h2 id="kapitel2">2. Arduino und Sketch</h2>
   
