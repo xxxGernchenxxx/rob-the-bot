@@ -72,8 +72,12 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
   
 <h2 id="kapitel6">6. Der Farbsensor TCS3200</h2>
   
+  Der Farbsensor TCS3200 ist ein Modul zur Erkennung von Farben. Er ist in unterschiedlichen Größen, Formen, Farben und Typen erhältich und wird von mehreren Herstellern produziert. Preislich ist er ein ziemlich günstiger Sensor, da er schon für weniger als 5 EURO zu kaufen ist. In meinem Projekt habe ich einen Sensor vom Typ GY-31 verwendet, den ich über Funduino bezogen habe. Er verfügt über 10 Anschlüsse, wovon VCC und GND doppelt vorhanden sind. Es müssen nur einmal Spannung und Erdung angelegt werden. Zudem hat er die Anschlüsse S0, S1, S2, S3, LED und OUT. In meinem Projekt wurden lediglich nur die Anschlüsse VCC, GND, S0, S1, S2, S3, S4 und OUT gebraucht. Würde man LED mit GND auf dem Arduino verbinden, dann würden die vier vormontierten, weißen LEDs, die optimal den zu erfassenden Bereich ausleuchten, ausgeschaltet werden. Da der Farbsensor mit 3,5 und 5 Volt zu betreiben ist, habe ich 5 Volt als Eingangsspannung benutzt und die optimale Erkennungsdistanz von 1 cm eingehalten. Der eigentliche Sensor besteht aus einem 8 x 8 Array aus Fotodioden. 
   
+  ![Farbsensor TCS3200](https://user-images.githubusercontent.com/88386279/163376122-ffbf07aa-d5e5-4693-9b62-3b168273afe5.jpg)
+
 <h2 id="kapitel7">7. Reflexion und Fazit</h2>
+  Insgesamt bin ich mit der Wahl des Projekts sehr zufrieden. Über die gesamte Zeit hatte ich Spaß an der Erarbeitung einer funktionierenden Sortiermaschine. Zudem habe ich nach, zugegebermaßen langen Suche, einen sehr gut funktionierenden Sketch für den Farbsensor gefunden. Trotzdem war es oft nicht einfach alles selbst zu programmieren, da ich bis auf die Erkenntnisse des vorangestellten Projektes keinerlei Erfahrungen mit dem Prgrammieren hatte. Doch genau das war auch ein Ansporn weiterzumachen und nicht aufzugeben, da ich je weiter ich mich eingearbeitet hatte mehr Spaß hatte und jede Menge gelernt habe. Für mich war auch die Mischung aus haptischer Arbeit, also mit den Motoren, dem Sensor und dem Holz, und der digitalen Arbeit, also dem Programmieren, der Erstellung einer GitHub-Seite, ein positiver Faktor. Auch wenn ich die anfangs großen Absichten nicht ganz erreicht habe, kann ich trotzdessen zufrieden mit den Erfolgen sein, da ich alleine gearbeitet habe und vom Programmieren über den Aufbau aus Holz bis hin zum Internetauftritt auf GitHub alles selbst anfertigen musste. 
   
   
 <h2 id="kapitel8">8. Eigenständigkeitserklärung</h2>
