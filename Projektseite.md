@@ -33,6 +33,7 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
 <h2 id="kapitel5">5. Der Sketch</h2>
   Den Sketch habe ich selbst zusammengestellt. Den Teil, der für das Auslesen und Ansteuern des Farbsensors notwendig ist, habe ich aus dem Internet von einem YouTube-Video übernommen und den Rest habe ich mir selbst überlegt und aufgeschrieben. Das bedeutet, dass ich die Motorsteuerung und die Ansteuerung der LEDs in den Sketch selbst eingebunden habe genauso wie ich die if-Schleifen eigenstädnig entworfen habe. 
   Im Folgenden möchte ich den Sketch in den drei Teilen Definitionen von Variablen, Void Setup und Void Loop vorstellen:<br>
+  
   Definitionen von Variablen:<br>
   
   ![Definitionen von Variablen](https://user-images.githubusercontent.com/88386279/163358696-6ab67091-155b-47dd-a396-9b1aa59da58f.PNG)
@@ -49,7 +50,22 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
   
   Void Loop:
   
-  ![Void Loop 1](https://user-images.githubusercontent.com/88386279/163361416-96389016-bdd4-48c0-9da1-a93269d270cf.PNG)
+![Void Loop !](https://user-images.githubusercontent.com/88386279/163361664-086d6d3d-0d13-47a5-b7ee-d7f3c427e1d4.PNG)
+  
+  In diesem ersten Teil der Void Loop habe ich zuerst die Motorbewegungen zu einem Teil gesteuert. (Der Rest wird dann immer in den gleich noch näher vorgestellten if-Schhleifen vorgenommen.) Zudem werden in diesem Teil noch die durch den Sensor erkannten Farbtemperaturen in den Wertebereich zwischen 0 und 255, dem normalen RGB-Bereich, umgerechnet. Das geschieht mit der Funktion "map". Bei dieser lassen sich die erkannten Werte in einen selbst einstellbaren Bereich umrechnen. Im Prinzip geschieht das mit einem einfachen Dreisatz im Arduino. Außerdem habe ich in diesem Teil die Ausgaben für den Serial Monitor teilweise festgelegt. Das bedeutet, dass die erkannte Farbe zuerst durch die einzelnen RGB-Werte ausgedrückt wird. Das sieht dann folgenermaßen aus: 
+  
+  ![RGB-Werte einzeln](https://user-images.githubusercontent.com/88386279/163363240-9b318760-1bcb-4144-8c49-bc7a93ae42e2.PNG)<br>
+  
+  
+  ![Void Loop 2](https://user-images.githubusercontent.com/88386279/163363427-e7e47f9a-7a59-4ba9-8280-53200f2dd82e.PNG)
+  
+  In dem zweiten Teil der Void Loop habe ich die if-Schleifen eingebunden. Im Aufbau gleichen sich diese, unterscheiden sich aber eben in den Farben und den daraus folgenden Winkeln für die Motoren und den Befehlen für den Serial Monitor. Jede if-Schleife fängt mit der selben Bedingung an. Wenn die Farbe "Rot" erkannt werden soll, dann muss der Rot-Wert jeweils größer als der Grün-Wert und der Blau-Wert sein. Das gleiche gilt auch für die anderen Farben in anderer Reihenfolge. Je nachdem welcher Wert der größte ist, wird dann auf dem Serial Monitor noch unter den RGB-Werten die tatsächliche Farbe angezeigt. Das sieht dann so aus:<br>
+  
+  ![RGB-Wert mit Farbe](https://user-images.githubusercontent.com/88386279/163364240-8210bd5b-2b9d-4a42-858e-b3c0afee7318.PNG)
+  
+  
+
+
 
 
   
