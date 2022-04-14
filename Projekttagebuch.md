@@ -207,9 +207,10 @@ Auf der Unterseite der Rutsche habe ich ein Aufnahmestück zwischen Servo-Motor 
 [x] Breadboard<br>
 [x] Farbsensor GY-31<br>
 [x] 2 Servo-Motoren<br>
-[x] Kabel (männlich-männlich; weiblich-weiblich)<br>
-[x] RGB-LED<br>
-
+[x] Kabel (männlich-männlich; weiblich-weiblich; männlich-weiblich)<br>
+[x] LEDs (rot, grün, blau)<br>
+[x] Holz
+[x] Papier, Klebeband
 
 <h3 id="kapitel4">4. Quellen</a></h3></li>
 
