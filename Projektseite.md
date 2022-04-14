@@ -28,13 +28,10 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
   
   
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
-  
-  
 
-https://user-images.githubusercontent.com/88386279/163378755-245ae6b2-efda-4887-b308-20710edcc0cd.mp4
+https://user-images.githubusercontent.com/88386279/163406224-be4b8d6f-917c-4668-b967-3da22eb10420.mp4
 
 
-  
 <h2 id="kapitel5">5. Der Sketch</h2>
   Den Sketch habe ich selbst zusammengestellt. Den Teil, der für das Auslesen und Ansteuern des Farbsensors notwendig ist, habe ich aus dem Internet von einem YouTube-Video übernommen und den Rest habe ich mir selbst überlegt und aufgeschrieben. Das bedeutet, dass ich die Motorsteuerung und die Ansteuerung der LEDs in den Sketch selbst eingebunden habe genauso wie ich die if-Schleifen eigenstädnig entworfen habe. 
   Im Folgenden möchte ich den Sketch in den drei Teilen Definitionen von Variablen, Void Setup und Void Loop vorstellen:<br>
