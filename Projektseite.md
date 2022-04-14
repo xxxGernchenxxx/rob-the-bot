@@ -33,8 +33,25 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
 <h2 id="kapitel5">5. Der Sketch</h2>
   Den Sketch habe ich selbst zusammengestellt. Den Teil, der für das Auslesen und Ansteuern des Farbsensors notwendig ist, habe ich aus dem Internet von einem YouTube-Video übernommen und den Rest habe ich mir selbst überlegt und aufgeschrieben. Das bedeutet, dass ich die Motorsteuerung und die Ansteuerung der LEDs in den Sketch selbst eingebunden habe genauso wie ich die if-Schleifen eigenstädnig entworfen habe. 
   Im Folgenden möchte ich den Sketch in den drei Teilen Definitionen von Variablen, Void Setup und Void Loop vorstellen:<br>
-  **Definitionen von Variablen:**
+  Definitionen von Variablen:<br>
   
+  ![Definitionen von Variablen](https://user-images.githubusercontent.com/88386279/163358696-6ab67091-155b-47dd-a396-9b1aa59da58f.PNG)
+  
+  In diesem Abschnitt habe ich die Variablen definiert. Das bedeutet ich habe den spezifischen Bezeichnungen besser verstädnliche Bezeichnungen verpasst oder sie erst definiert, damit in den späteren Schritten der Sketch überhaupt funktioniert. Hier kann man sehen, dass ich zu allererst die "Servo.h-Bibliothek" eingebunden habe und anschließend beide verwendeten Servo-Motoren benannt habe, damit ich zu jeder Zeit weiß, welcher Servo, wo sitzt und sich wann bewegt. Anschlißend habe ich die Pins des Farbsensors TCS32000 definiert und dann die RGB-Werte aus dem Kalibrierungs-Sketch für den Farbsensor übertragen. Anschließend habe ich noch weitere Variablen für den Farbsensor niedergeschrieben und abschließend die Pins für die drei LEDs definiert und benannt.<br>
+  
+  Void Setup:
+  
+  ![Void Setup](https://user-images.githubusercontent.com/88386279/163359887-777abc22-766a-4cce-ac20-da09e3c9398c.PNG)
+
+  In diesem nächsten Abschnitt werden dann die Pins des Arduinos als Output oder Input versehen. Zudem wird eine Skalierung des Farbsensors vorgenommen und der Serial Monitor wird auf 9600 gesetzt. Das bedeutet, dass die Baudrate auf 9600 definiert wird und damit die Kommunikation zwischen dem Arduino und dem Serial Monitor ermöglicht wird. Im Prinzip dient dann der Serial Monitor, ein Fenster auf dem PC, als Anzeigeplattform für die vom Arduino gesammelten Informationen via Sensoren.
+  Zudem habe ich im Void Setup noch die Steuerpins der Motoren und die Pins der LEDs als Output definiert.<br> 
+  Im Gegensatz zur Void Loop wird das Void Setup nur einmal vom Arduino abgelesen. Das heißt, dass dieser die Anweisungen nur einmal befolgt und dann für die Schritte in der Loop immer umsetzt.<br>
+  
+  Void Loop:
+  
+  ![Void Loop 1](https://user-images.githubusercontent.com/88386279/163361416-96389016-bdd4-48c0-9da1-a93269d270cf.PNG)
+
+
   
 <h2 id="kapitel6">6. Der Farbsensor TCS3200</h2>
   
