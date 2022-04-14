@@ -31,6 +31,9 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
   
   
 <h2 id="kapitel5">5. Der Sketch</h2>
+  Den Sketch habe ich selbst zusammengestellt. Den Teil, der für das Auslesen und Ansteuern des Farbsensors notwendig ist, habe ich aus dem Internet von einem YouTube-Video übernommen und den Rest habe ich mir selbst überlegt und aufgeschrieben. Das bedeutet, dass ich die Motorsteuerung und die Ansteuerung der LEDs in den Sketch selbst eingebunden habe genauso wie ich die if-Schleifen eigenstädnig entworfen habe. 
+  Im Folgenden möchte ich den Sketch in den drei Teilen Definitionen von Variablen, Void Setup und Void Loop vorstellen:<br>
+  **Definitionen von Variablen:**
   
   
 <h2 id="kapitel6">6. Der Farbsensor TCS3200</h2>
