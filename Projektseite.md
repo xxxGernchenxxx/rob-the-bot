@@ -63,10 +63,11 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
   
   ![RGB-Wert mit Farbe](https://user-images.githubusercontent.com/88386279/163364240-8210bd5b-2b9d-4a42-858e-b3c0afee7318.PNG)
   
+  Ist dies geschehen, wird die jeweilige LED angesteuert und leuchtet für wenige Sekunden auf. Das dauert so lange, bis die LED in der gleichen if-Schleife später wieder ausgeschaltet wird. Nach der Farbe entscheidend, wird dann die Rutsche durch den "ServoRutsche" eingestellt. Dabei variiert er zwischen 0°, 50° und 100°. Ein Delay von einer Sekunde ermöglicht, dass die Rutsche auch wirklich richtig eingestellt ist, bevor der andere Servo die Schokolinse auf die Rutsche schiebt. Nach einem weiteren Delay von einer Sekunde, wird davon ausgegangen, dass die Linse ihr Ziel erreicht hat und der Rutschenmotor wird in Grundstellung gebracht, die jeweilige LED wird wieder auf LOW gesetzt, also ausgeschaltet und der Servo, der für den Schokolinsen-Transport vom Vorratsbehälter zum Farbsensor und zur Rutsche vorgesehen ist, wird bis hinter den Vorratsbehälter bewegt, damit eine neue Schokolinse bewegt werden kann. Dieser Vorgang wird in der Void Loop immer und immer wieder wiederholt.<br>
   
-
-
-
+  ![Void Loop 3](https://user-images.githubusercontent.com/88386279/163365562-c1772880-a175-4345-9282-941271290fd3.PNG)
+  
+  Dieser letzte Teil des Sketches ist nicht wirklich Teil der Void Loop, da die geschweifte Klammer für die Loop schon im anderen Abschnitt geschlossen wurde. Trotzdem wird dieser Vorgang immer wieder wiederholt, da dieser für das Auslesen des Farbsensors zuständig ist. Dabei werden die verschiedenen Pins, die für beim Sensor als Output dienen unter verschiedene Spannungen gesetzt, woraus sich dann vom Arduino Werte errechnen lassen. Jede Farbe wird dabei einzeln ausgelesen.<br>
 
   
 <h2 id="kapitel6">6. Der Farbsensor TCS3200</h2>
