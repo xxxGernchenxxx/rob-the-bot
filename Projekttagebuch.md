@@ -198,6 +198,10 @@ Auf der Unterseite der Rutsche habe ich ein Aufnahmestück zwischen Servo-Motor 
   
   ![Aufbau](https://user-images.githubusercontent.com/88386279/163405004-064710bb-ce86-43db-b61c-cdecb5f2d8ae.png)<br>
   Der wahrscheinlich nahezu finale Aufbau.
+  
+<b>Freitag, 15.04.2022</b><br>
+
+  Heute habe ich einen der letzten Texte auf der Projektseite geschrieben. 
 
   
   
