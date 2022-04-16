@@ -89,7 +89,6 @@ https://user-images.githubusercontent.com/88386279/163406224-be4b8d6f-917c-4668-
 <h2 id="kapitel8">8. Eigenständigkeitserklärung</h2>
   
   Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe.<br>
-
   Alle sinngemäß und wörtlich übernommenen Textstellen aus fremden Quellen wurden kenntlich gemacht.<br>
   
   Gernot Zesch
