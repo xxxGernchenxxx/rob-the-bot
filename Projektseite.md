@@ -21,11 +21,9 @@ Mit den Pins lassen sich die genannten Verbraucher entweder direkt anschließen 
  
 <h2 id="kapitel3">3. Projektentwicklung</h2>
   Nachdem das letzte Projekt abgeschlossen war, habe ich mir einige Gedanken gemacht, was ich als nächstes bauen bzw. programmieren möchte. Da kam mir zum einen ein Roboter in den Sinn, der auf Ketten oder Rädern selbst gesteuert fährt und Hindernisse mit Sensoren erkennt und umfahren kann. Bei diesem Roboter hätten sowohl verschiedene Motoren, als auch Sensoren zum Einsatz kommen können. Nach einiger Planung ist mir jedoch bewusst geworden, dass ein selbstfahrender Roboter eine Nummer zu groß ist. Deshalb habe ich im Internet nach Projektvorschlägen für den Arduino gesucht und eine Idee gefunden, die eine Sortiermaschine vorsieht. Diese Idee für Schokolinsen fand ich sofort sehr interessant und witzig in der Umsetzung. Doch auch hier habe ich mich nach einiger Planung auf eine etwas einfachere Umsetzung beschränkt, da meine eigene Weiterentwicklung der Idee zu einer Sortiermaschine für Legosteine wahrscheinliche große mechanische Schwierigkeiten gemacht hätte.<br>
-  Auf diese Weise bin ich dann schlussendlich bei dem Vorschlag aus dem Internet für eine Sortiermaschine für Schokolinsen gelandet. Hierzu habe ich mir dann anschließend tiefergehende Planungen gemacht. Zum einen galt es einen passenden Farbsensor zu finden, aber auch einen geeigneten Aufbau zu entwerfen. Mit der Zeit bin ich von Ideen, die eine Förderband beinhalteten abgekommen und habe mich auf Ideen mit Rutschen beschränkt, die die Schwerkraft ausnutzen. Damit bin ich dann auch zu einem geplanten Aufbau gelangt, der folgendermaßen aussieht: 
+  Auf diese Weise bin ich dann schlussendlich bei dem Vorschlag aus dem Internet für eine Sortiermaschine für Schokolinsen gelandet. Hierzu habe ich mir dann anschließend tiefergehende Planungen gemacht. Zum einen galt es einen passenden Farbsensor zu finden, aber auch einen geeigneten Aufbau zu entwerfen. Mit der Zeit bin ich von Ideen, die eine Förderband beinhalteten abgekommen und habe mich auf Ideen mit Rutschen beschränkt, die die Schwerkraft ausnutzen. Damit bin ich dann auch zu einem geplanten Aufbau gelangt, der folgendermaßen aussieht:<br>
   
-  
-  
-  
+  ![image](https://user-images.githubusercontent.com/88386279/163716736-5ec09572-3f91-4a03-b799-1b00b7b15de7.jpeg)
   
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
 
