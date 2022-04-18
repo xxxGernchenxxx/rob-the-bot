@@ -1,6 +1,6 @@
 Diese Seite ist das Projekttagebuch. Hier werden alle Tage, an denen am Projekt gearbeitet wurde, mit einer kurzen Beschreibung erwähnt.
 
-<h1>Bau einer automatischen Sortiermaschine für Legosteine und Schokolinsen mit einem Arduino</h1>
+<h1>Bau einer automatischen Sortiermaschine für Schokolinsen mit einem Arduino</h1>
 
 <h3> Inhalt </h3>
 <ul style="list-stlye-type:none">
