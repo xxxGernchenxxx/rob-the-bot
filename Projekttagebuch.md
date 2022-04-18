@@ -195,11 +195,11 @@ Auf der Unterseite der Rutsche habe ich ein Aufnahmestück zwischen Servo-Motor 
   Nachdem ich gestern die Projektseite angefangen habe zu schreiben, habe ich heute an der Seite weitergearbeitet. Nun fehlen nur noch wenige Themen, die ich in den nächsten Tagen noch ergänzen werde. Außerdem habe ich heute drei LEDs im Aufbau ergänzt, die die jeweils erkannte Farbe anzeigen. Dazu habe ich den Sketch etwas abgeändert und die Funktion "digitalWrite" verwendet. Dann habe ich eine kleine Verblendung aus Holz gebastelt, die die Technik mit den ganzen Kabeln etwas verdeckt. In dieser Blende sind die drei LEDs eingelassen.<br>
   
   ![Aufbau](https://user-images.githubusercontent.com/88386279/163405004-064710bb-ce86-43db-b61c-cdecb5f2d8ae.png)<br>
-  Der wahrscheinlich nahezu finale Aufbau.
+  Der finale Aufbau.
   
 <b>Freitag, 15.04.2022</b><br>
 
-  Heute habe ich einen der letzten Texte auf der Projektseite geschrieben. 
+  Heute habe ich die letzten Texte auf der Projektseite geschrieben. 
 
   
   
