@@ -207,12 +207,13 @@ Auf der Unterseite der Rutsche habe ich ein Aufnahmestück zwischen Servo-Motor 
 
 [x] Arduino Uno R3<br>
 [x] Breadboard<br>
-[x] Farbsensor GY-31<br>
+[x] Farbsensor GY-31 TCS3200<br>
 [x] 2 Servo-Motoren<br>
 [x] Kabel (männlich-männlich; weiblich-weiblich; männlich-weiblich)<br>
 [x] LEDs (rot, grün, blau)<br>
 [x] Holz<br>
 [x] Papier, Klebeband<br>
+[x] 3 kleine Plastikbehälter<br>
 
 <h3 id="kapitel4">4. Quellen</a></h3></li>
 
