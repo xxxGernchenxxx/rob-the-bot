@@ -147,8 +147,6 @@ Aufbau des Arduinos
 
   Auch an diesem Tag habe ich an dem Gehäuse weitergearbeitet. Nach dem heutigen Tag habe ich die Bewegungseinheit, die die Schokolinse vom Vorratsbehälter zum Farbsensor bewegt und anschließend zur Rutsche bringt fertiggestellt.
   
-  Bild folgt!!
-  
 <b>Dienstag, 15.03.2022</b><br>
 
   Nachdem ich am Wochenende mit dem Bau des Gehäuses deutlich vorangekommen bin, konnte ich heute die einzelnen vormontierten Bauteile erstmals zusammenfügen und im Unterricht testen, ob alles so funktioniert, wie ich es mir vorgestellt habe. Insgesamt bin ich sehr zufrieden mit den bisherigen Ergebnissen. Die bewusst leichten Holzteile werden von den Servomotoren ohne Probleme zügig bewegt und auch die Stromversorgung durch den Computer reicht aus und wäre gegebenenfalls noch durch eine 9-Volt-Batterie zu verstärken. 
